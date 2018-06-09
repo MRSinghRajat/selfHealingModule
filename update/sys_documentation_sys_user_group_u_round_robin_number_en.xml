@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_round_robin_number" label="Round Robin Number" language="en" table="sys_user_group">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_round_robin_number</element>
+            <help/>
+            <hint/>
+            <label>Round Robin Number</label>
+            <language>en</language>
+            <name>sys_user_group</name>
+            <plural>Round Robin Numbers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-09 07:36:03</sys_created_on>
+            <sys_id>6a6d12ea37d59300b611ea4873990e3f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Round Robin Number</sys_name>
+            <sys_package display_value="Clippy world" source="x_213760_clippy_wo">82c4766d37191300b611ea4873990e20</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Clippy world">82c4766d37191300b611ea4873990e20</sys_scope>
+            <sys_update_name>sys_documentation_sys_user_group_u_round_robin_number_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-09 07:36:03</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
